@@ -4,8 +4,9 @@
 <h3 align="center">🚀 A passionate Software Developer, Educator & Tech Content Creator from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+ML%2FAI+Enthusiast+%7C+Tech+YouTuber+%7C+Open+Source+Lover&center=true&width=440&height=45&color=0AF8F8&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+ML%2FAI+Enthusiast+%7C+Open+Source+Lover&center=true&width=440&height=45&color=0AF8F8&vCenter=true&size=22" />
 </p>
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -13,8 +14,7 @@
 - 👨‍🏫 Associate Robotic Engineer | Educated 200+ students in tech.
 - 💻 Built several projects in **MERN**, **Machine Learning**, and **AI**.
 - 🌱 Currently expanding my skills in **DevOps & Cloud (AWS)**.
-- 📽️ Creating **tech videos in Tamil** on my YouTube channel.
-- 💬 Ask me about **Python, MERN Stack, AI/ML, OpenCV**.
+- 💬 Ask me about **Java,Python, MERN Stack, AI/ML, OpenCV**.
 - 📫 Reach me at **arockiabilgates2@gmail.com**
 - 🌐 Portfolio: [bilgates.netlify.app](https://bilgates.netlify.app)
 
@@ -24,14 +24,13 @@
 <p align="left">
 <a href="https://linkedin.com/in/bilgates777" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 <a href="https://www.leetcode.com/bilgates567" target="_blank"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" /></a>
-<a href="https://auth.geeksforgeeks.org/user/bilgates" target="_blank"><img src="https://img.shields.io/badge/GeeksForGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks" /></a>
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools:
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,nodejs,react,mongodb,mysql,git,aws,docker,tensorflow,flask,pytorch,figma,opencv,pandas,scikit-learn,seaborn" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,nodejs,react,mongodb,mysql,springboot,django,git,aws,docker,flask,figma,opencv,pandas,scikit-learn,seaborn" />
 </p>
 
 ---
