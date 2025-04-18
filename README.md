@@ -3,8 +3,9 @@
 <h1 align="center">Hi 👋, I'm AROCKIA BILGATES</h1>
 <h3 align="center" style="color:#0AF8F8;">🚀 A passionate Software Developer, Educator & Tech Explorer from India 🇮🇳</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=🚀+Software+Engineer+%7C+ML%2FAI+Enthusiast+%7C+Open+Source+Lover&center=true&width=600&height=45&color=00F5FF&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+ML%2FAI+Enthusiast+%7C+Open+Source+Lover" />
 </p>
+
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
