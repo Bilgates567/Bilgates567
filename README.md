@@ -4,7 +4,7 @@
 <h3 align="center" style="color:#0AF8F8;">🚀 A passionate Software Developer, Educator & Tech Explorer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Software+Engineer+%7C+ML%2FAI+Enthusiast+%7C+Open+Source+Lover&center=true&width=500&height=45&color=00F5FF&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com?lines=%7Software+Engineer+%7C+ML%2FAI+Enthusiast+%7C+Open+Source+Lover&center%7=true&width=500&height=45&color=00F5FF&vCenter=true&size=22" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -40,7 +40,7 @@
 ### 🛠️ Languages & Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,nodejs,react,mongodb,mysql,springboot,django,git,aws,docker,flask,figma,opencv,pandas,scikit-learn,seaborn" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,nodejs,react,mongodb,mysql,django,git,aws,docker,flask,figma,opencv,pandas,scikit-learn,seaborn" />
 </p>
 
 ---
